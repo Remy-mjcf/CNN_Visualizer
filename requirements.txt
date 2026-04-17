@@ -1,4 +1,4 @@
+python<=3.11.15
 streamlit
-pandas
-numpy
+numpy<=1.24
 tensorflow
